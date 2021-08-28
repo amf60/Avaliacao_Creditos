@@ -77,7 +77,7 @@ with my_expander_3:
 
     dict_respostas['Tamanho_Familia'] = col5_form.slider('Qual o tamanho da familia ?', help = 'Podemos mover a barra usando as setas to teclado', min_value=1, max_value=20)
 
-    dict_respostas['Qtd_Filhos'] = col5_form.slider('Quantos filhos ?', help = 'Podemos mover a barra usando as setas to teclado', min_value=1, max_value=20)
+    dict_respostas['Qtd_Filhos'] = col5_form.slider('Quantos filhos ?', help = 'Podemos mover a barra usando as setas to teclado', min_value=0, max_value=20)
 
 if st.button('Avaliar crédito'):
     if avaliar_mau(dict_respostas):
