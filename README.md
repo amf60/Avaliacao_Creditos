@@ -30,6 +30,8 @@ That said, I have no domain expertise on the subject at all, and would let to ou
 
 Finally, I welcome any challenge and/or comments to opinions shared here above. 
 
+PS: I am keeping the title of this repository in portuguese as used in the curse, because I believe it is now the link between the 3 objects created on phase I and 3 differentes platforms used in the phase 3.
+
 
 [VINTAGE ANALYSIS AS A BASIC TOOL FOR MONITORING CREDIT RISK](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjr4fOe1NbyAhWRpJUCHbaeCYgQFnoECAUQAQ&url=https%3A%2F%2Fwww.alll.com%2Fwp-content%2Fuploads%2F2016%2F04%2FVintage_Analysis_Basics_Whitepaper.pdf&usg=AOvVaw21mfD3NR60ssqR9o221QG7)
 
