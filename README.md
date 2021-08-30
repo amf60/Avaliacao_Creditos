@@ -26,7 +26,7 @@ I am certain the overall proposal of this extra module 6 was lovable and conduct
 
 Nevertheless, the illusion of success brought by the final deliver, the web interactive interface, using a model based on a dataset, on my personal view, of questionable quality, is rather unsettling. 
 
-That said, I have no domain expertise on the subject at all, and would let to our bootcamp colleague, Gustavo Cochlar, to opine on the matter. 
+That said, I have no domain expertise on the subject at all, and would let to our bootcamp colleague, Gustavo Cochlar, or anybody else with domainn expertise in finance and vintage analysis to opine on the matter.
 
 Finally, I welcome any challenge and/or comments to opinions shared here above. 
 
